@@ -1,7 +1,7 @@
-# Unused Unprotector
+# Unused Unprotector 2
 ![Unused Unprotector Image](https://i.imgur.com/7CUKFes.png)
 
- The archived source code of Unused unprotector(UUP) by Unused(2008).
+ The archived source code of Unused unprotector 2(UU2) by Unused(2008).
  All the copyrights are on Unused, and this is his comment. (Help -> About)
 
 ```
