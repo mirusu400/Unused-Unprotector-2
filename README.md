@@ -1,5 +1,5 @@
 # Unused Unprotector
-![Unused Unprotector Image](https://i.imgur.com/7CUKFes.png “Unused Unprotector”)
+![Unused Unprotector Image](https://i.imgur.com/7CUKFes.png)
  The archived source code of Unused unprotector(UUP) by Unused(2008).
  All the copyrights are on Unused, and this is his comment. (Help -> About)
 
